@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Alpine Route 2025 - Pre-Trip Info</title>
+  <style>
+    body {
+      background-color: #fff7f0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #4a3f35;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #a0522d;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    video {
+      width: 100%;
+      max-width: 100%;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      margin-top: 20px;
+    }
+
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #7a6655;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Alpine Route 2025 – Pre-Trip Briefing</h1>
+    <p>
+      This is the recording of our Zoom session. Please watch it to get important information before the trip.
+    </p>
+    <video controls>
+      <source src="video1086254818.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <footer>
+      <p>If you have any questions after watching, feel free to contact us.</p>
+    </footer>
+  </div>
+</body>
+</html>
